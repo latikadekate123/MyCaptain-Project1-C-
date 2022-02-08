@@ -1,2 +1,2 @@
-# MyCaptain-Project1-c-
+# MyCaptain-Project1-C++
 Developed by Latika Dekate
